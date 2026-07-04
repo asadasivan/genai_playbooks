@@ -26,7 +26,7 @@ The goal of this repository is to collect practical playbooks and reusable files
 
 ## Master File Index
 
-| File | Purpose | Companion README |
+| File | Purpose | Reference |
 | --- | --- | --- |
 | [AGENTS.md](AGENTS.md) | Solves the repeated-context problem for Codex by giving it reusable personal guidance for security architecture work, audience-aware communication, coding behavior, quality standards, and workplace-ready outputs. | [docs/README_AGENTS.md](docs/README_AGENTS.md) |
 
